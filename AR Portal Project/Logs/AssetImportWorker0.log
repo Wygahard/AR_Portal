@@ -1,0 +1,521 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'fr' Physical Memory: 16194 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\Editors\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/Unity Projects/AR_Portal/AR Portal Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60559
+Successfully changed project path to: D:/Unity/Unity Projects/AR_Portal/AR Portal Project
+D:/Unity/Unity Projects/AR_Portal/AR Portal Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path D:/Unity/Editors/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Unity Projects/AR_Portal/AR Portal Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'D:/Unity/Editors/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Editors/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Editors/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Editors/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.059525 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.566 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.133155 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.549 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1563 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.2 MB.
+System memory in use after: 72.3 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1999.
+Total: 4.103800 ms (FindLiveObjects: 0.308600 ms CreateObjectMapping: 0.168100 ms MarkObjects: 3.394700 ms  DeleteObjects: 0.230400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/3D/Sponza.FBX
+  artifactKey: Guid(f21b94d23cf99bb4ab5a61420c33639c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Sponza.FBX using Guid(f21b94d23cf99bb4ab5a61420c33639c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb8334844b5284e5b659e7c60470b2d') in 0.593872 seconds
+  Import took 0.601874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.697137 seconds.
+  path: Assets/Materials/Sponza
+  artifactKey: Guid(c41c17000baa9ff479ddf498eaea0ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza using Guid(c41c17000baa9ff479ddf498eaea0ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c6e395950801e0181fb59ad4c85711') in 0.010954 seconds
+  Import took 0.017951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.440634 seconds.
+  path: Assets/Materials/Sponza/Sponza.shader
+  artifactKey: Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/Sponza.shader using Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c495d01089ce269207ba7eccb16a888') in 0.018217 seconds
+  Import took 0.022878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.913217 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(a41a7210521734e45a5a08b802a49612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(a41a7210521734e45a5a08b802a49612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657c5fc16690df88a21496f29a9ce835') in 0.023145 seconds
+  Import took 0.039872 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.379 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2012.
+Total: 4.259000 ms (FindLiveObjects: 0.336200 ms CreateObjectMapping: 0.124500 ms MarkObjects: 3.751000 ms  DeleteObjects: 0.045900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004934 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2015.
+Total: 2.916300 ms (FindLiveObjects: 0.232400 ms CreateObjectMapping: 0.066800 ms MarkObjects: 2.548900 ms  DeleteObjects: 0.066800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 490.473813 seconds.
+  path: Assets/3D
+  artifactKey: Guid(49148e84c266bf04ebbac728fc823c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D using Guid(49148e84c266bf04ebbac728fc823c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa7392985aa500b432b2dbd037a98ed') in 0.028874 seconds
+  Import took 0.032575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.353464 seconds.
+  path: Assets/AR Config
+  artifactKey: Guid(d0a7c765ac5751a4dae98f02af77c99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Config using Guid(d0a7c765ac5751a4dae98f02af77c99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39999fa190f2d2c24670e4c08aac7e6') in 0.026562 seconds
+  Import took 0.032791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.563140 seconds.
+  path: Assets/3D/Portal.prefab
+  artifactKey: Guid(217367c3c3546b14caaa861aa9aa8c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Portal.prefab using Guid(217367c3c3546b14caaa861aa9aa8c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1af72718ce0e3b7c636bac204752510') in 0.586412 seconds
+  Import took 0.590282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 303.397058 seconds.
+  path: Assets/Materials/Sponza/Sponza.shader
+  artifactKey: Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/Sponza.shader using Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e703b683390c2daf62e26b22ccfb214a') in 0.010382 seconds
+  Import took 0.015611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000891 seconds.
+  path: Assets/Materials/Sponza/Sponza.shader
+  artifactKey: Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/Sponza.shader using Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e703b683390c2daf62e26b22ccfb214a') in 0.003065 seconds
+  Import took 0.006462 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.171 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2020.
+Total: 2.646600 ms (FindLiveObjects: 0.242300 ms CreateObjectMapping: 0.069300 ms MarkObjects: 2.283600 ms  DeleteObjects: 0.050200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 459.365257 seconds.
+  path: Assets/Materials/Sponza/Sponza.shader
+  artifactKey: Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/Sponza.shader using Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc73821d2fd625f05c7fb5633c960bfb') in 0.021974 seconds
+  Import took 0.026212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008415 seconds.
+  path: Assets/Materials/Sponza/Sponza.shader
+  artifactKey: Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/Sponza.shader using Guid(e3b963fccdd68a1488d41067d85f5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc73821d2fd625f05c7fb5633c960bfb') in 0.004170 seconds
+  Import took 0.007457 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.351 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2023.
+Total: 2.942700 ms (FindLiveObjects: 0.276400 ms CreateObjectMapping: 0.084800 ms MarkObjects: 2.532200 ms  DeleteObjects: 0.047900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 966.853021 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/cloud_anchor.fbx
+  artifactKey: Guid(669ee420d8ea8449f91df60d461f6e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/cloud_anchor.fbx using Guid(669ee420d8ea8449f91df60d461f6e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b91a37de18fe8f410e051b3d36379d2') in 0.344341 seconds
+  Import took 0.349014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/GoogleARCore/Examples/CloudAnchors/Materials/StarDiffuseMaterial.mat
+  artifactKey: Guid(0b079db6ee1704c53b8ddfcb4b456b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/CloudAnchors/Materials/StarDiffuseMaterial.mat using Guid(0b079db6ee1704c53b8ddfcb4b456b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f383663de706ae7a0e179505df2ca4') in 0.454481 seconds
+  Import took 0.459336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Materials/Sponza/sp_00_prozor.mat
+  artifactKey: Guid(c76f3dadba009a84392bebb263cd3f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_prozor.mat using Guid(c76f3dadba009a84392bebb263cd3f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d097e7dfcf38d4399ec3eb388a4bf7') in 0.021080 seconds
+  Import took 0.024628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnYellow.mat
+  artifactKey: Guid(323489e10f1294dc09fbdd17ce5eddbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnYellow.mat using Guid(323489e10f1294dc09fbdd17ce5eddbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9956c3279034cf4d372d4b8d1a02d332') in 0.167976 seconds
+  Import took 0.171184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Materials/Sponza/sp_01_stub_baza.mat
+  artifactKey: Guid(bd656a9eefb99634aa3cf95f3a8f06b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_stub_baza.mat using Guid(bd656a9eefb99634aa3cf95f3a8f06b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317d74964be1d884dfa6ff131b1d99ee') in 0.024657 seconds
+  Import took 0.029698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Materials/Sponza/sp_00_pod.mat
+  artifactKey: Guid(9c81b939d84be9340800ed59454a1888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_pod.mat using Guid(9c81b939d84be9340800ed59454a1888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc2cc9d0112df98b1377e0bdba2df58') in 0.034498 seconds
+  Import took 0.039748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Materials/Sponza/sp_01_stub.mat
+  artifactKey: Guid(c3e3587427401d642819837fd6125d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_stub.mat using Guid(c3e3587427401d642819837fd6125d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c523f4d37867fe30bb67021398bc92c') in 0.035749 seconds
+  Import took 0.039261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Materials/Sponza/sp_01_stub_kut.mat
+  artifactKey: Guid(7cdabf53dc408664e8d74d098cccd346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_stub_kut.mat using Guid(7cdabf53dc408664e8d74d098cccd346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2909e0033fc8eb9fef88fff9704f8ff8') in 0.029797 seconds
+  Import took 0.033399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/GoogleARCore/Examples/AugmentedFaces/Models/canonical_face_mesh.fbx
+  artifactKey: Guid(538464acafcf3406f94cb7a5cb51f0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/AugmentedFaces/Models/canonical_face_mesh.fbx using Guid(538464acafcf3406f94cb7a5cb51f0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ef6e0208402d8fb73831bf2259d006') in 0.233222 seconds
+  Import took 0.236635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnTranslucent.mat
+  artifactKey: Guid(1128ebe9a8e984da085c9c3e31c69d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnTranslucent.mat using Guid(1128ebe9a8e984da085c9c3e31c69d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98919cf1feba4a10b0ce0ed8c243397d') in 0.072176 seconds
+  Import took 0.074803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/GoogleARCore/Examples/ObjectManipulation/Materials/footprint.obj
+  artifactKey: Guid(f46e9f4cfc2694e5ea2041902ce3c91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/ObjectManipulation/Materials/footprint.obj using Guid(f46e9f4cfc2694e5ea2041902ce3c91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb35b3c5dfd06e5f5a79fe9890935cc') in 0.072361 seconds
+  Import took 0.075590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Materials/Sponza/sp_01_stup.mat
+  artifactKey: Guid(c1650e8429bb8bb4598a2a4c5c8c54f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_stup.mat using Guid(c1650e8429bb8bb4598a2a4c5c8c54f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01160e654fd5cb2e3d7f89459a0dbded') in 0.034016 seconds
+  Import took 0.037326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Materials/Sponza/sp_01_stup_baza.mat
+  artifactKey: Guid(060fd5199c5e6784a8b2ab408d7331a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_stup_baza.mat using Guid(060fd5199c5e6784a8b2ab408d7331a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b14187d4b9107305825667bb271a98') in 0.035172 seconds
+  Import took 0.038582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnGreen.mat
+  artifactKey: Guid(497ba9ca2875647c480e107fef5391be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnGreen.mat using Guid(497ba9ca2875647c480e107fef5391be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3ced8b05bf6ea9b18efe1e1b25c591') in 0.053253 seconds
+  Import took 0.060072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PawnBlue.mat
+  artifactKey: Guid(70896cee61b874ab4bf0c86e9192ba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PawnBlue.mat using Guid(70896cee61b874ab4bf0c86e9192ba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c16189afa2eb427d1f8ef8fb7b757c') in 0.025824 seconds
+  Import took 0.029580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001546 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PlaneGrid.mat
+  artifactKey: Guid(92b1ca249edc047509db2c7bc05789ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PlaneGrid.mat using Guid(92b1ca249edc047509db2c7bc05789ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3086a57f676d7d3f67925a9689426071') in 0.266536 seconds
+  Import took 0.269589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/GoogleARCore/Examples/PersistentCloudAnchors/Materials/MapQualityBarMaterial.mat
+  artifactKey: Guid(c0e772fb0eab7402d87ae289ade06c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/PersistentCloudAnchors/Materials/MapQualityBarMaterial.mat using Guid(c0e772fb0eab7402d87ae289ade06c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd2cd0107a6bd55ab04b4775a0f69d9') in 0.084810 seconds
+  Import took 0.088524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Materials/Sponza/sp_00_luk_mal1.mat
+  artifactKey: Guid(555dc332eaec91b4eb4527292282972b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_luk_mal1.mat using Guid(555dc332eaec91b4eb4527292282972b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eaf875b4ca76a8f9017d1967cbb5b1f') in 0.018509 seconds
+  Import took 0.022214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000826 seconds.
+  path: Assets/Materials/Sponza/sp_00_luk_mali.mat
+  artifactKey: Guid(7ceedcac8370ebe4fbf1a74cdd2a6ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_luk_mali.mat using Guid(7ceedcac8370ebe4fbf1a74cdd2a6ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7329ce5406347359ab58d2041089e13') in 0.026224 seconds
+  Import took 0.029618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Materials/Sponza/sp_00_vrata_krug.mat
+  artifactKey: Guid(d5b0d75d25281f146846dfcd01fc05d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_vrata_krug.mat using Guid(d5b0d75d25281f146846dfcd01fc05d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f8767550112572dfdf417b61fef71e') in 0.020176 seconds
+  Import took 0.023346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Materials/PortalPlane.mat
+  artifactKey: Guid(e6e5c737237c8b64fbe1708763fe73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PortalPlane.mat using Guid(e6e5c737237c8b64fbe1708763fe73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc959a1d5637c433ca938b07ed7c4bce') in 0.021404 seconds
+  Import took 0.025051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/PointCloud.mat
+  artifactKey: Guid(fb4fbd1b92e244df2bc6f43deb7a57a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/PointCloud.mat using Guid(fb4fbd1b92e244df2bc6f43deb7a57a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb0164a515205d4e2a58db489325263') in 0.056165 seconds
+  Import took 0.060340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Materials/Sponza/sp_00_stup.mat
+  artifactKey: Guid(5dde1d4424f2957469262e902cdb180e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_stup.mat using Guid(5dde1d4424f2957469262e902cdb180e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3dbb48fcc2d63d52f155940d8fedb5') in 0.028127 seconds
+  Import took 0.031692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Materials/Sponza/sp_00_zid.mat
+  artifactKey: Guid(6b96b044141b62b45ae3d73762426c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_zid.mat using Guid(6b96b044141b62b45ae3d73762426c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71f0b58cbeb4bf7b5d5cc35d7db7647') in 0.022482 seconds
+  Import took 0.026535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Materials/Sponza/sp_02_reljef.mat
+  artifactKey: Guid(987e3fab14988f7438f4cf2f44a9aa19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_02_reljef.mat using Guid(987e3fab14988f7438f4cf2f44a9aa19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c2e2dfa4644470d50d13f7b65335b0') in 0.036528 seconds
+  Import took 0.040587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Materials/Sponza/sp_01_stub_baza_.mat
+  artifactKey: Guid(4f2b71e5cc5f2ce4a836ee52718ba838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_stub_baza_.mat using Guid(4f2b71e5cc5f2ce4a836ee52718ba838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1b637bba335cb765bfd56e826a6d25') in 0.018776 seconds
+  Import took 0.022329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/GoogleARCore/Examples/Common/Materials/ShadowPlane.mat
+  artifactKey: Guid(1543111f52ced4f468b402fcf46b850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/Common/Materials/ShadowPlane.mat using Guid(1543111f52ced4f468b402fcf46b850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9245beb7468bb04031a4db9907ee3b7') in 0.066235 seconds
+  Import took 0.080478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Materials/Sponza/sp_00_svod.mat
+  artifactKey: Guid(dccc3adb3e9cbed4eae0d5a934f6d8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_svod.mat using Guid(dccc3adb3e9cbed4eae0d5a934f6d8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5eac19f9cb08ccbc4a116c878315fe0') in 0.022767 seconds
+  Import took 0.025921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/GoogleARCore/Examples/CloudAnchors/Materials/StarMaterial.mat
+  artifactKey: Guid(ec3a918bbcac8403db73f7ef3fb1b51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleARCore/Examples/CloudAnchors/Materials/StarMaterial.mat using Guid(ec3a918bbcac8403db73f7ef3fb1b51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e45c1ec93449d8596d09a92b1aa30fb') in 0.040523 seconds
+  Import took 0.044016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Materials/Sponza/sp_01_luk_a.mat
+  artifactKey: Guid(072c9c43e2a839948a2fe34ab791a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_luk_a.mat using Guid(072c9c43e2a839948a2fe34ab791a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fee541932eb3db1420f132e039b072a') in 0.028177 seconds
+  Import took 0.032031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Materials/Sponza/sp_00_vrata_kock.mat
+  artifactKey: Guid(b6a4b7953aa9a5a489578f1541cfb833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_00_vrata_kock.mat using Guid(b6a4b7953aa9a5a489578f1541cfb833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993cd49d25fe1107a9c81aac075cf831') in 0.019359 seconds
+  Import took 0.023326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018130 seconds.
+  path: Assets/Materials/Sponza/sp_01_luk_a.mat
+  artifactKey: Guid(072c9c43e2a839948a2fe34ab791a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sponza/sp_01_luk_a.mat using Guid(072c9c43e2a839948a2fe34ab791a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fee541932eb3db1420f132e039b072a') in 0.019503 seconds
+  Import took 0.023502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.007808 seconds.
+  path: Assets/3D/Portal.prefab
+  artifactKey: Guid(217367c3c3546b14caaa861aa9aa8c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Portal.prefab using Guid(217367c3c3546b14caaa861aa9aa8c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e509ca4881ce820a8e80c4838361af') in 0.008107 seconds
+  Import took 0.014314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.025185 seconds.
+  path: Assets/3D/Portal(2).FBX
+  artifactKey: Guid(c63d2d5eecec55945beeed3f58b11141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Portal(2).FBX using Guid(c63d2d5eecec55945beeed3f58b11141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1561a164db63ab399a57cb9877b18cb5') in 0.050056 seconds
+  Import took 0.054018 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

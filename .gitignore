@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Cache Android files - too heavy
+*.sym.so
+*.dbg.so
